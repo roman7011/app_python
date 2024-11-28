@@ -1,3 +1,5 @@
+### Aktualizovana verzia zo srv-mondo01
+
 ```bash
 mkdir -p work/vita/projekt-abc
 cd work/vita/projekt-abc
